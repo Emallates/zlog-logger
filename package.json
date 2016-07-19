@@ -1,6 +1,6 @@
 {
   "name": "zlog-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "provides the functionality to log locally or log via online service",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emallates/zglog-logger.git"
+    "url": "git+https://github.com/Emallates/zlog-logger.git"
   },
   "keywords": [
     "logger",
-    "zglog"
+    "zglog",
+    "zlog"
   ],
   "author": "emallates",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Emallates/zglog-logger/issues"
+    "url": "https://github.com/Emallates/zlog-logger/issues"
   },
-  "homepage": "https://github.com/Emallates/zglog-logger#readme",
+  "homepage": "https://github.com/Emallates/zlog-logger#readme",
    "devDependencies": {
     "mocha": "^2.4.5",
     "should": "^8.3.1",
