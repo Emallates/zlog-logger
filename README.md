@@ -1,17 +1,17 @@
-# zlog-logger
+# zlogjs-logger
 [![Version][version-svg]][package-url]&nbsp;[![Build Status][travis-svg]][travis-url]</br>[![ISSUES][issues-url]][issues-url]&nbsp;[![FORKS][forks-url]][forks-url]&nbsp;[![STARS][stars-url]][stars-url]&nbsp;[![Downloads][downloads-image]][downloads-url]</br>[![License][license-image]][license-url]
 
-[version-svg]: https://img.shields.io/npm/v/zlog-logger.svg?style=flat-square
-[package-url]: https://npmjs.org/package/zlog-logger
-[travis-svg]: https://img.shields.io/travis/Emallates/zlog-logger/master.svg?style=flat-square
-[travis-url]: https://api.travis-ci.org/Emallates/zlog-logger.svg?branch=master
-[issues-url]:https://img.shields.io/github/issues/Emallates/zlog-logger.svg?style=flat-square
-[forks-url]:https://img.shields.io/github/forks/Emallates/zlog-logger.svg?style=flat-square
-[stars-url]:https://img.shields.io/github/stars/Emallates/zlog-logger.svg?style=flat-square
-[downloads-image]: https://img.shields.io/npm/dm/zlog-logger.svg?style=flat-square
-[downloads-url]: http://npm-stat.com/charts.html?package=zlog-logger
+[version-svg]: https://img.shields.io/npm/v/zlogjs-logger.svg?style=flat-square
+[package-url]: https://npmjs.org/package/zlogjs-logger
+[travis-svg]: https://img.shields.io/travis/Emallates/zlogjs-logger/master.svg?style=flat-square
+[travis-url]: https://api.travis-ci.org/Emallates/zlogjs-logger.svg?branch=master
+[issues-url]:https://img.shields.io/github/issues/Emallates/zlogjs-logger.svg?style=flat-square
+[forks-url]:https://img.shields.io/github/forks/Emallates/zlogjs-logger.svg?style=flat-square
+[stars-url]:https://img.shields.io/github/stars/Emallates/zlogjs-logger.svg?style=flat-square
+[downloads-image]: https://img.shields.io/npm/dm/zlogjs-logger.svg?style=flat-square
+[downloads-url]: http://npm-stat.com/charts.html?package=zlogjs-logger
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
-[license-url]: https://raw.githubusercontent.com/Emallates/zlog-logger/master/LICENSE
+[license-url]: https://raw.githubusercontent.com/Emallates/zlogjs-logger/master/LICENSE
 
 ##DESCRIPTION
 logger
@@ -35,7 +35,7 @@ Clients should be registered with the regarding service to use log service
 
 Install stable version from NPM:
 ```
-npm install zlog-logger --save
+npm install zlogjs-logger --save
 ```
 
 
